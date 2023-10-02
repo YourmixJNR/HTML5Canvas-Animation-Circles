@@ -1,0 +1,1 @@
+This is a basic HTML canvas animation that creates a simple visual display of moving circles. The circles change position and color to create a dynamic and visually appealing animation.
